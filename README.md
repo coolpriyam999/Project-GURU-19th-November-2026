@@ -1,35 +1,36 @@
 # PROJECT GURU
+### A collection of moments worth keeping.
 
-A personal, scroll-led digital journal dedicated to a teacher and mentor.
+> Some people teach you lessons. Others leave you with memories, values, and a little more wisdom than you had before.
 
-## Run locally
-No build tools or backend are required. Open `index.html` in a browser.
+---
 
-For a local development server, run:
-```bash
-python -m http.server 8000
-```
-Then visit `http://localhost:8000`.
+## About the Project
 
-## Personalise before publishing
-Search the files for:
-- The cover uses **Naina** (no surname needed).
-- The letter is signed **Lazyfisher**, your familiar anonymous-feedback signature.
-- The letter date is set to **19 November**, based on the birthday clue (Rani Lakshmibai was born on 19 November 1828).
+**PROJECT GURU** is a personal digital journal dedicated to Naina Ma'am.
 
-The memory cards and letter are starter copy based only on the details provided so far. Edit them to make every detail accurate and personal.
+It was created as a birthday gift, but its purpose goes beyond celebrating a birthday. It is a collection of memories, experiences, laughter, small incidents, and lessons that deserve to be remembered.
 
-## Publish free with GitHub Pages
-1. Create a new public GitHub repository (for example, `project-guru`).
-2. Upload `index.html`, `style.css`, `script.js`, and this README to the repository root.
-3. Open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`, then save.
-6. GitHub will provide the published website address after deployment.
+A teacher's influence is not always measured by the chapters completed, examinations conducted, or marks achieved. Sometimes, it is found in the little moments outside the syllabus — the conversations after class, the trust placed in students, the occasional scolding, and the kindness that makes a classroom feel welcoming.
 
-Cloudflare Pages is another free static-hosting option. This project is static and does not need a server, database, or API key.
+This project is a small attempt to preserve those moments.
 
-## Notes
-- Google Fonts are loaded from Google Fonts when internet access is available; system serif/sans-serif fallbacks are included.
-- The website is public once deployed. Anyone with the URL can view it, and it may be discoverable by search engines. Avoid publishing private information or photos without permission.
-- Test the mobile layout before sharing the QR code.
+It is not intended to be a conventional birthday greeting or a collection of generic appreciation messages. It is a personal account of someone who made a difference, not merely as a teacher, but as a Guru.
+
+## Why PROJECT GURU?
+
+The word *Guru* carries a meaning that goes beyond the conventional definition of a teacher.
+
+A Guru is someone from whom we learn not only subjects, but also values, perspective, and lessons that remain relevant long after the classroom.
+
+The name reflects the appreciation and respect behind this project.
+
+Every page represents a different part of that experience — from ordinary classroom memories to the gratitude that is sometimes difficult to express in person.
+
+The project was built with one simple thought:
+
+**Some moments are too meaningful to leave behind as just memories.**
+
+## What's Inside?
+
+PROJECT GURU is designed as an interactive journal with five sections:
